@@ -13,9 +13,9 @@
 
 Берілген 9 тақырыпты шамамен ұсынылған тәртіпте кітап және видео-лекциялар арқылы зертте. Әрбір тақырыпты оқуға шамамен 100-200 сағаттай уақыт бөлуге мақсат қойып, содан кейін жұмыс жолыңда ұнаған тақырыптарға қайта орал 🚀.  
 
-| Subject                                | Why study?                                                   | Best book                                               | Best videos                       |
+| Тақырып                                | Неге оқу керек?                                                   | Үздік кітап                                               | Үздік видеолар                       |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------- |
-| **[Programming]()**                    | Don’t be the person who “never quite understood” something like recursion. | *Structure and Interpretation of Computer Programs*     | Brian Harvey’s Berkeley CS 61A    |
+| **[Бағдарламау]()**                    | Рекурсияны "шынайы түрде білмеген" сияқты адам болма. | *Structure and Interpretation of Computer Programs*     | Brian Harvey’s Berkeley CS 61A    |
 | **[Computer Architecture]()**          | If you don’t have a solid mental model of how a computer actually works, all of your higher-level abstractions will be brittle. | *Computer Organization and Design*                      | Berkeley CS 61C                   |
 | **[Algorithms and Data Structures]()** | If you don’t know how to use ubiquitous data structures like stacks, queues, trees, and graphs, you won’t be able to solve hard problems. | *The Algorithm Design Manual*                           | Steven Skiena’s lectures          |
 | **[Math for CS]()**                    | CS is basically a runaway branch of applied math, so learning math will give you a competitive advantage. | *Mathematics for Computer Science*                      | Tom Leighton’s MIT 6.042J         |
