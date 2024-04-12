@@ -177,56 +177,55 @@ OSTEP-тен кейін *[Lion's commentary on Unix] сияқты "{OS name} Int
 
 Оқулықты немесе басқа қосымша ресурстарды таңдауға қарамастан, үлестірілген жүйелерді зерттеу міндетті түрде қағаз оқуды міндеттейді. Жақсы тізім [мұнда](http://dsrg.pdos.csail.mit.edu/papers/), және біз сізге [Papers We Love](http://paperswelove.org/) көруді ұсынамыз.
 
-## Frequently asked questions
+## Жиі қойылатын сұрақтар
 
-### Who is the target audience for this guide?
+### Осы нұсқаулықтың мақсатты аудиториясы кім?
 
-We have in mind that you are a self-taught software engineer, bootcamp grad or precocious high school student, or a college student looking to supplement your formal education with some self-study. The question of when to embark upon this journey is an entirely personal one, but most people tend to benefit from having some professional experience before diving too deep into CS theory. For instance, we notice that students *love* learning about database systems if they have already worked with databases professionally, or about computer networking if they’ve worked on a web project or two.
+### Ал ИИ/графика/pet-topic-X туралы не айтасыз?
 
-### What about AI/graphics/pet-topic-X?
+Біз өз тізімімізді информатика тақырыптарымен шектеуге тырыстық, біздің ойымызша, мамандығына немесе саласына қарамастан, бірақ жүйелерге назар аудара отырып, әрбір тәжірибелі инженер-бағдарламашы білуі тиіс. Біздің тәжірибеміз бойынша, бұл өзін-өзі оқытатын инженерлер мен bootcamp түлектерінің басым көпшілігі үшін ең жоғары ROI тақырыптары болады және олар одан әрі зерттеу үшін берік негіз қамтамасыз етеді. Кейіннен сіз оқулықтарды немесе құжаттарды алып, ерекше басшылықсыз негізгі тұжырымдамаларды зерделеу үшін әлдеқайда жақсы жағдайда боласыз. Жалпы “факультативтер“ жұбы үшін біздің ұсынылатын бастапқы нүктелеріміз:
 
-We’ve tried to limit our list to computer science topics that we feel *every practicing software engineer* should know, irrespective of specialty or industry, but with a focus on systems. In our experience, these will be the highest ROI topics for the overwhelming majority of self-taught engineers and bootcamp grads, and provide a solid foundation for further study. Subsequently, you’ll be in a much better position to pick up textbooks or papers and learn the core concepts without much guidance. Here are our suggested starting points for a couple of common “electives”:
+- Жасанды интеллект үшін: [Беркли AI курсына кіріспе](http://ai.berkeley.edu/) жасау, бейнені қарап және Pacman тамаша жобаларын аяқтау. Оқулық ретінде Рассел мен Норвиг кітабын пайдаланыңыз *Жасанды интеллект: заманауи тәсіл*.
+- Машина оқыту үшін: Эндрю Нг Coursera курсын жасау. Шыдамды болыңыз және терең оқыту сияқты жарқын жаңа тақырыптарға көшуден бұрын негіздерді түсінетініңізге көз жеткізіңіз.
+- Компьютерлік графика үшін: [Беркли CS 184](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) арқылы жұмыс істеу және [Компьютерлік графика: Қағидаттар мен практика](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) оқулық ретінде пайдалану.
 
-- For artificial intelligence: do [Berkeley’s intro to AI course](http://ai.berkeley.edu/) by watching the videos and completing the excellent Pacman projects. As a textbook, use Russell and Norvig’s *Artificial Intelligence: A Modern Approach*.
-- For machine learning: do Andrew Ng’s Coursera course. Be patient, and make sure you understand the fundamentals before racing off to shiny new topics like deep learning.
-- For computer graphics: work through [Berkeley’s CS 184](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) material, and use [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) as a textbook.
+### Ұсынылған дәйектілік қаншалықты қатал?
 
-### How strict is the suggested sequencing?
+Шын мәнінде, бұл заттардың барлығы біршама сәйкес келеді және бір-біріне циклдік түрде қарайды. Мысалы, дискретті математика мен алгоритмдердің өзара байланысын алайық: математиканы үйрену ең алдымен сіздің алгоритмдеріңізді терең талдауға және түсінуге көмектеседі, бірақ оқыту алгоритмдері ең алдымен дискретті математика үшін үлкен уәждеме мен контекстті қамтамасыз етеді. Ең дұрысы, сіз осы тақырыптардың екеуін де мансабыңыз бойы бірнеше рет қараған болар едіңіз.
 
-Realistically, all of these subjects have a significant amount of overlap, and refer to one another cyclically. Take for instance the relationship between discrete math and algorithms: learning math first would help you analyze and understand your algorithms in greater depth, but learning algorithms first would provide greater motivation and context for discrete math. Ideally, you’d revisit both of these topics many times throughout your career.
+Осылайша, біздің ұсынылатын тізбектер негізінен сізге көмектесу үшін бар *жай ғана бастау үшін*... егер сізде басқа бірізділікті таңдауға дәлелді себеп болса, онда соған барыңыз. Біздің ойымызша, неғұрлым маңызды «алғышарттар» мыналар болып табылады: операциялық жүйелердің немесе деректер базасының алдындағы компьютердің архитектурасы және бөлінген жүйелердің алдындағы желілік және операциялық жүйелер.
 
-As such, our suggested sequencing is mostly there to help you *just get started*… if you have a compelling reason to prefer a different sequence, then go for it. The most significant “pre-requisites” in our opinion are: computer architecture before operating systems or databases, and networking and operating systems before distributed systems.
+### Бұл Open Source Society немесе freeCodeCamp оқу бағдарламаларымен қалай байланысты?
 
-### How does this compare to Open Source Society or freeCodeCamp curricula?
+Бұл нұсқау 2016 жылы алғаш рет жазылғанда, [OSS нұсқауында](https://github.com/open-source-society/computer-science) заттар тым көп болды, олардың көбі үшін нашар ресурстар ұсынылды, сондай-ақ нақты курстардың қандай аспектілері құнды екендігіне қатысты ешқандай негіздеме немесе ұсыныстар болған жоқ. Біз сіздің мамандығыңызға қарамастан, бағдарламалық жасақтама инженері ретінде * шынымен білуге тиіс * курстардың тізімін шектеуге және әрбір курстың неге қосылғанын түсінуге көмектесуге тырыстық. Келесі жылдары OSS жөніндегі нұсқау жақсарды, бірақ біз әлі де бұл анағұрлым нақты және біріктірілген жолды қамтамасыз етеді деп есептейміз.
 
-When this guide was first written in 2016, the [OSS guide](https://github.com/open-source-society/computer-science) had too many subjects, suggested inferior resources for many of them, and provided no rationale or guidance around why or what aspects of particular courses are valuable. We strove to limit our list of courses to those which you *really should know* as a software engineer, irrespective of your specialty, and to help you understand why each course is included. In the subsequent years, the OSS guide has improved, but we still think that this one provides a clearer, more cohesive path.
+freeCodeCamp негізінен компьютерлік ғылымға емес, бағдарламалауға бағытталған. Неге информатиканы үйренгіңіз келетіні туралы [Жоғарыдағы](https://teachyourselfcs.com/#why) қараңыз. Егер сіз бағдарламалауда жаңа болсаңыз, біз басымдықтарды белгілеп, бір-екі жылдан кейін осы нұсқауға оралуды ұсынамыз.
 
-freeCodeCamp is focused mostly on programming, not computer science. For why you might want to learn computer science, see [above](https://teachyourselfcs.com/#why). If you are new to programming, we suggest prioritizing that, and returning to this guide in a year or two.
+### X тілі туралы не айтасыз?
 
-### What about language X?
+Бағдарламалаудың нақты тілін үйрену компьютерлік ғылым саласын үйренуден мүлде басқаша жоспарда тұр - тілді үйрену әлдеқайда оңай және әлдеқайда арзан. Егер сіз бірнеше тілді білсеңіз, біз тек қана біздің нұсқаулықты ұстанып, тілді үйренуді бос орындарға енгізуді немесе кейінге қалдыруды ұсынамыз. Егер сіз бағдарламалауды жақсы меңгерген болсаңыз (мысалы, компьютерлік бағдарламалардың құрылымы мен интерпретациясы арқылы), және әсіресе компиляторларды білсеңіз, бұл жаңа тілдің негіздерін үйрену үшін демалыс күндерінен сәл артық уақытты алуы тиіс, содан кейін сіз кітапханалар/құралдар/жұмыстағы экожүйе туралы біле аласыз.
 
-Learning a particular programming language is on a totally different plane to learning about an area of computer science — learning a language is much easier and much less valuable. If you already know a couple of languages, we strongly suggest simply following our guide and fitting language acquisition in the gaps, or leaving it for afterwards. If you’ve learned programming well (such as through Structure and Interpretation of Computer Programs), and especially if you have learned compilers, it should take you little more than a weekend to learn the essentials of a new language, after which you can learn about the libraries/tooling/ecosystem on the job.
+### Ал X сән технологиясы туралы не айтасыз?
 
-### What about trendy technology X?
+Ешбір технология оны пайдалануға үйрету сіздің біліміңіздің негізгі бөлігіне айналатындай маңызды болып табылмайды. Екінші жағынан, бұл туралы білгеніңізге қуаныштымын. Қулық - нақты технологиядан негізгі салаға немесе тұжырымдамаға кері бағытта жұмыс істеу және сән технологиясының жалпы картинаға қалай сәйкес келетінін көруден бұрын оны терең білу.
 
-No single technology is important enough that learning to use it should be a core part of your education. On the other hand, it’s great that you’re excited to learn about that thing. The trick is to work backwards from the particular technology to the underlying field or concept, and learn that in depth before seeing how your trendy technology fits into the bigger picture.
 
-### Why are you still recommending SICP?
+### Неге сіз әлі де SICP ұсынасыз?
 
-Look, just try it. Some people find SICP mind blowing, a characteristic shared by very few other books. If you don't like it, you can always try something else and perhaps return to SICP later.
+Тыңдап көр. Кейбіреулер SICP-ті ақыл-ой, мінездеме деп табады. Егер бұл сізге ұнамайтын болса, сіз әрқашан басқа нәрсені байқап көре аласыз және кейінірек SICP-ге орала аласыз.
 
-### Why are you still recommending the Dragon book?
+### Неге сіз әлі де «Айдаһар» кітабын ұсынасыз?
 
-The Dragon book is still the most complete single resource for compilers. It gets a bad rap, typically for overemphasizing certain topics that are less fashionable to cover in detail these days, such as parsing. The thing is, the book was never intended to be studied cover to cover, only to provide enough material for an instructor to put together a course. Similarly, a self-learner can choose their own adventure through the book, or better yet follow the suggestions that lecturers of public courses have made in their course outlines.
+Айдаһар кітабы бұрынғысынша компиляторлар үшін ең толық бірыңғай ресурс болып табылады. Ол нашар рэп алады, әдетте, белгілі бір тақырыптарды қайта бағалағаны үшін, оларды қазіргі уақытта парсинг сияқты толық жариялау сәнді емес. Мәселе мынада, кітап ешқашан оқуға арналмаған, тек нұсқаушыға курсты құруға жеткілікті материал беру үшін ғана. Сол сияқты өзін-өзі үйренуші кітап арқылы өз оқиғасын таңдай алады немесе одан да жақсысы, курс оқытушыларының өздерінің курстық нобайларына енгізген ұсыныстарын қолдана алады.
 
-### How can I get textbooks cheaply?
+### Оқулықтарды қалай арзан алуға болады?
 
-Many of the textbooks we suggest are freely available online, thanks to the generosity of their authors. For those that aren’t, we suggest buying used copies of older editions. As a general rule, if there has been more than a couple of editions of a textbook, it’s quite likely that an older edition is perfectly adequate. It’s certainly unlikely that the newest version is 10x better than an older one, even if that’s what the price difference is!
+Біз ұсынып отырған көптеген оқулықтар олардың авторларының кең пейілінің арқасында Интернетте еркін қолжетімді. Мұны жасамайтындар үшін біз ескі басылымдардың қолданылған көшірмелерін сатып алуды ұсынамыз. Әдетте, егер оқулықтың бірнеше басылымы көп болса, ескі басылым өте ыңғайлы болуы әбден мүмкін. Әрине, бағадағы айырмашылық болса да, жаңа нұсқаның ескіге қарағанда 10 есе жақсы болуы екіталай!
 
-### Who made this?
+### Мұны кім жасады?
 
-This guide was originally written by [Oz Nova](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck), with 2020 updates by Oz. It is based on our experience teaching foundational computer science to over 1000 mostly self-taught engineers and bootcamp grads in small group settings in San Francisco and live online. Thank you to all of our students for your continued feedback on self-teaching resources.
+Бұл нұсқаулық бастапқыда [Оз Нова](https://twitter.com/oznova_) және [Майлс Бирн](https://twitter.com/quackingduck) жазылған, Оз. Ол Сан-Францискода шағын топтық жағдайларда 1000-нан астам инженер-өзін-өзі оқытушылар мен bootcamp түлектерін іргелі информатикаға оқыту тәжірибесіне негізделген және онлайн режимінде өмір сүреді. Барлық студенттерімізге өз бетінше оқуға арналған ресурстар туралы тұрақты пікірлеріңіз үшін рахмет.
 
-We're very confident that you could teach yourself everything above, given enough time and motivation. But if you'd prefer an intensive, structured, instructor-led program, you might be interested in our [Computer Science Intensive](https://bradfieldcs.com/csi/). We [DON'T](https://ozwrites.com/masters/) suggest pursuing a master's degree.
+Уақыт пен уәждемені ескере отырып, сіз өзіңізді жоғарыдан үйрете аласыз деп сенеміз. Бірақ егер сіз нұсқаушының басшылығымен қарқынды, құрылымдалған бағдарламаны қаласаңыз, біздің [Интенсивті компьютерлік ғылым](https://bradfieldcs.com/csi/) сізді қызықтыруы мүмкін. Біз  магистр дәрежесін алуды [ҰСЫНАМЫЗ](https://ozwrites.com/masters/).
 
-For updates to this guide and general computer science news and resources, you may also like to join Bradfield's mailing list: [visit https://teachyourselfcs.com/ to subscribe]
+Осы нұсқаулықтың жаңартуларын және компьютерлік ғылымның жаңалықтары мен ресурстарын алу үшін Bradfield тарату тізіміне қосыла аласыз: [жазылу үшін https://teachyourselfcs.com/ кіріңіз]
