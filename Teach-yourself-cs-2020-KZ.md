@@ -33,7 +33,7 @@
 
 Инженерлердің 2 түрі бар: күрделі, инновациялық жұмыстарды орындау үшін информатиканы жақсы түсінетіндер және бірнеше жоғары деңгейлі құралдармен таныс болып жатқандар.
 
-Екеуі де өздерін инженерлер деп атайды және екеуі де мансабының басында ұқсас жалақы алуға бейім. Бірақ 1-ші типті инженерлер toward more fulfilling and well-remunerated work over time, whether that’s valuable commercial work or breakthrough open-source projects, technical leadership or high-quality individual contributions.
+Екеуі де өздерін инженерлер деп атайды және екеуі де мансабының басында ұқсас жалақы алуға бейім. Бірақ 1-ші типті инженерлер уақыт өте келе сапалы және жақсы төленетін жұмысқа, мейлі ол құнды коммерциялық жұмыс немесе ашық бастапқы жобалар, техникалық көшбасшылық жұмыс орындарында жұмыс үстеуге мақсат қояды.
 
 > The global SMS system does around 20bn messages a day. WhatsApp is now doing 42bn. With 57 engineers. [pic.twitter.com/zZrtSIzhlR](https://t.co/zZrtSIzhlR)
 >
