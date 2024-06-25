@@ -1,1 +1,2 @@
-# teachyourselfCS-QAZ
+# Teach Yourself CS Qazaq Translation
+
